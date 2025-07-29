@@ -31,7 +31,7 @@ def load_resources():
 tokenizer, model = load_resources()
 
 # App UI
-st.title("🎬 Movie Review Sentiment Analyzer (LSTM-based)")
+st.title("🎬 Movie Review Sentiment Analyzer ")
 st.write("Enter a movie review and see whether it's positive or negative.")
 
 # User input
